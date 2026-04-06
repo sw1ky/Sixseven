@@ -1,1 +1,14 @@
-hello brooo
+# profile-title: MAXon VPN | TURBO
+# profile-update-interval: 5
+# Date/Time: 2026-04-06 / 20:29 (Moscow)
+# Количество: 26
+
+vless://1ac5e5c6-55c8-4e2f-b715-7dffae0107eb@5.188.115.3:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=HlzNO3mRO4iQdgxvu0CSwTHICleXOzVPAqEknfZ1DTg&sid=afee962d&type=tcp##1 Обход глушилок🇷🇺
+vless://1ac5e5c6-55c8-4e2f-b715-7dffae0107eb@5.188.115.3:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=HlzNO3mRO4iQdgxvu0CSwTHICleXOzVPAqEknfZ1DTg&sid=afee962d&type=tcp##2 Обход глушилок 🇬🇧
+vless://1ac5e5c6-55c8-4e2f-b715-7dffae0107eb@5.188.115.3:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=HlzNO3mRO4iQdgxvu0CSwTHICleXOzVPAqEknfZ1DTg&sid=afee962d&type=tcp##3 Обход глушилок🇫🇷
+vless://1ac5e5c6-55c8-4e2f-b715-7dffae0107eb@nodandl.stockvpn.online:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&sid=ad7dab462a323acb&type=tcp#Нидерланды🇳🇱
+vless://1ac5e5c6-55c8-4e2f-b715-7dffae0107eb@nodade.stockvpn.online:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&sid=ad7dab462a323acb&type=tcp#Германия🇩🇪
+vless://1ac5e5c6-55c8-4e2f-b715-7dffae0107eb@nodaswe.stockvpn.online:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&sid=ad7dab462a323acb&type=tcp#Швеция🇸🇪
+vless://1ac5e5c6-55c8-4e2f-b715-7dffae0107eb@81.177.215.118:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&sid=ad7dab462a323acb&type=tcp#Турция🇹🇷
+vless://1ac5e5c6-55c8-4e2f-b715-7dffae0107eb@nodafin.stockvpn.online:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&sid=ad7dab462a323acb&type=tcp#Финлядния🇫🇮
+vless://1ac5e5c6-55c8-4e2f-b715-7dffae0107eb@nodausa.stockvpn.online:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&sid=ad7dab462a323acb&type=tcp#USA🇺🇸
