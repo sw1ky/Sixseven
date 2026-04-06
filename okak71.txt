@@ -2,7 +2,8 @@
 # profile-update-interval: 5
 # Date/Time: 2026-04-06 / 20:29 (Moscow)
 # Количество: 26
-# Подписка: 777
+# description: hello brafat
+# subscription: 87
 
 vless://1ac5e5c6-55c8-4e2f-b715-7dffae0107eb@5.188.115.3:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=HlzNO3mRO4iQdgxvu0CSwTHICleXOzVPAqEknfZ1DTg&sid=afee962d&type=tcp##1 Обход глушилок🇷🇺
 vless://1ac5e5c6-55c8-4e2f-b715-7dffae0107eb@5.188.115.3:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=HlzNO3mRO4iQdgxvu0CSwTHICleXOzVPAqEknfZ1DTg&sid=afee962d&type=tcp##2 Обход глушилок 🇬🇧
