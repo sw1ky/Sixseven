@@ -34,3 +34,4 @@ vless://a18a8faa-d836-4111-85ab-ad4c5040fafa@212.233.97.128:5443?security=realit
 vless://f58ed501-db0c-0008-9d90-40e74d504c97@5.188.143.71:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vkvideo.ru&fp=chrome&pbk=hdivmyH44HTRsbFwN5Q5a-F5K-44WF2KEq5NWSWy7BI&sid=8e3f4a5b&type=tcp#⚡️ БЕЛЫЕ СПИСКИ | 20ГБ
 vless://f58ed501-db0c-0008-9d90-40e74d504c97@radioperec.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=hdivmyH44HTRsbFwN5Q5a-F5K-44WF2KEq5NWSWy7BI&sid=6c5d6e7f&type=tcp#⚡️ БЕЛЫЕ СПИСКИ | 20ГБ
 vless://f58ed501-db0c-48e9-9d90-40e74d504c97@51.250.24.253:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=ZHN9-0i3wJk7lnW2YhNU4m5JFl7GqekFjiArPx1Rum8&sid=6a0b1c2d&type=tcp#⚡️ БЕЛЫЕ СПИСКИ | 8ГБ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdGIyV00zNFVEV05ZcW1zVVJfTTRZX0U4VVVkOWtnSg==@150.241.65.131:1234#Test Server
