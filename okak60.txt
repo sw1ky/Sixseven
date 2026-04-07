@@ -2,8 +2,8 @@
 # profile-update-interval: 5
 # Date/Time: 2026-04-06 / 20:29 (Moscow)
 # Количество: 26
-# description: hello brafat
-# subscription: 87
+# Profile-description: hello brafat
+# Profile-subscription: 87
 
 vless://1ac5e5c6-55c8-4e2f-b715-7dffae0107eb@nodandl.stockvpn.online:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&sid=ad7dab462a323acb&type=tcp#Нидерланды🇳🇱
 vless://1ac5e5c6-55c8-4e2f-b715-7dffae0107eb@nodaswe.stockvpn.online:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&sid=ad7dab462a323acb&type=tcp#Швеция🇸🇪
