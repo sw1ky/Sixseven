@@ -3,13 +3,13 @@
 # Date/Time: 2026-04-06 / 20:29 (Moscow)
 # Profile-ServerDescription: 777
 
-vless://1b2212b9af75318bcd80fbca4c66ee94@194.87.55.168:31434?type=tcp&encryption=none&security=reality&pbk=FOm2HqqE1XaoLmOG2r8NWlBVLLtkNEgTJYwYqH__NC0&fp=chrome&sni=www.apple.com&sid=435a82404a1d395e&spx=%2F#❗РАБОЧИЙ СЕРВЕР ШОК
-vless://1ac5e5c6-55c8-4e2f-b715-7dffae0107eb@nodandl.stockvpn.online:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&sid=ad7dab462a323acb&type=tcp#Нидерланды🇳🇱
-vless://f58ed501-db0c-48e9-9d90-40e74d504c97@it.perecm.ru:43439?encryption=none&security=reality&sni=apple.com&fp=safari&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=39ad36226f3abec8&type=grpc#Нидерланды #2🇳🇱
-vless://1ac5e5c6-55c8-4e2f-b715-7dffae0107eb@nodaswe.stockvpn.online:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&sid=ad7dab462a323acb&type=tcp#Швеция🇸🇪
-vless://f58ed501-db0c-0021-9d90-40e74d504c97@swp.musicperec.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=kG6zs_B1ZlZ5kjeC0WWPSz4B60vk_VeWj_WYsl2mGBw&sid=8c0d4e5f&spx=/&type=tcp#Швеция🇸🇪 #2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdGIyV00zNFVEV05ZcW1zVVJfTTRZX0U4VVVkOWtnSg==@150.241.65.131:1234#Швеция #3 🇸🇪
-vless://1ac5e5c6-55c8-4e2f-b715-7dffae0107eb@81.177.215.118:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&sid=ad7dab462a323acb&type=tcp#Турция🇹🇷
+vless://1b2212b9af75318bcd80fbca4c66ee94@194.87.55.168:31434?type=tcp&encryption=none&security=reality&pbk=FOm2HqqE1XaoLmOG2r8NWlBVLLtkNEgTJYwYqH__NC0&fp=chrome&sni=www.apple.com&sid=435a82404a1d395e&spx=%2F#❗ребят я купил
+vless://1ac5e5c6-55c8-4e2f-b715-7dffae0107eb@nodandl.stockvpn.online:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&sid=ad7dab462a323acb&type=tcp#свой личный🇳🇱
+vless://f58ed501-db0c-48e9-9d90-40e74d504c97@it.perecm.ru:43439?encryption=none&security=reality&sni=apple.com&fp=safari&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=39ad36226f3abec8&type=grpc#серваак🇳🇱
+vless://1ac5e5c6-55c8-4e2f-b715-7dffae0107eb@nodaswe.stockvpn.online:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&sid=ad7dab462a323acb&type=tcp#скоро будет🇸🇪
+vless://f58ed501-db0c-0021-9d90-40e74d504c97@swp.musicperec.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=kG6zs_B1ZlZ5kjeC0WWPSz4B60vk_VeWj_WYsl2mGBw&sid=8c0d4e5f&spx=/&type=tcp#от меня
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdGIyV00zNFVEV05ZcW1zVVJfTTRZX0U4VVVkOWtnSg==@150.241.65.131:1234#свой личный
+vless://1ac5e5c6-55c8-4e2f-b715-7dffae0107eb@81.177.215.118:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&sid=ad7dab462a323acb&type=tcp#ВПН
 vless://f58ed501-db0c-48e9-9d90-40e74d504c97@167.160.10.46:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=6c3d6e9f&spx=/&type=tcp#Турция #2🇹🇷
 vless://1ac5e5c6-55c8-4e2f-b715-7dffae0107eb@nodafin.stockvpn.online:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&sid=ad7dab462a323acb&type=tcp#Финляндия🇫🇮
 vless://f58ed501-db0c-0021-9d90-40e74d504c97@flp.musicperec.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=k76Ze8R0E5NyZwvBZT1A4n0zlVXxTeHQDAs0bBqiGQw&sid=2a8b9c5d&spx=/&type=tcp#Финляндия #2🇫🇮
