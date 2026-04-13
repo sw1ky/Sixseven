@@ -3,7 +3,4 @@
 # Date/Time: 2026-04-06 / 20:29 (Moscow)
 # Profile-ServerDescription: 777
 
-vless://2de60f6d-5b44-495c-9356-4dfeca18e829@ya1.cyphervpn.pro:2443?security=reality&encryption=none&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=obhod #1🇨🇭
-vless://66921908-bb80-49f6-ab71-7faff9de6dba@158.160.132.0:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=obhod #2🇺🇸
-vless://848988a6-2b4a-4ebd-b081-500f441edc60@194.164.35.205:8443?security=reality&encryption=none&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=obhod#4🇳🇱
-vless://c41a8b2a-f8bc-4d4e-a924-5a4c2599a56b@51.250.117.39:443?security=reality&encryption=none&pbk=EzS6YGgfE-F0jR0-xXB5rVBh-1oNSC17oquln8hK4Wo&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&sid=obhod #5🇫🇷
+vless://8db20de9-1324-45fa-8962-38af3bb7e22f@84.201.173.177:443?security=reality&encryption=none&pbk=Fhii1Ui9Pk35hUS28za8SnL5yb7Lz6FXdv-J0xF8jBM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&sid=6d615073#%F0%9F%87%AB%F0%9F%87%B7+France+%5B*CIDR%5D+YA
