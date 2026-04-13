@@ -3,4 +3,4 @@
 # Date/Time: 2026-04-06 / 20:29 (Moscow)
 # Profile-ServerDescription: 777
 
-vless://8db20de9-1324-45fa-8962-38af3bb7e22f@84.201.173.177:443?security=reality&encryption=none&pbk=Fhii1Ui9Pk35hUS28za8SnL5yb7Lz6FXdv-J0xF8jBM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&sid=6d615073#%F0%9F%87%AB%F0%9F%87%B7+France+%5B*CIDR%5D+YA
+vless://8db20de9-1324-45fa-8962-38af3bb7e22f@84.201.173.177:443?security=reality&encryption=none&pbk=Fhii1Ui9Pk35hUS28za8SnL5yb7Lz6FXdv-J0xF8jBM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&sid= Обход глушилок #1
