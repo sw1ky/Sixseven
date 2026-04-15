@@ -1,8 +1,0 @@
-# profile-title: 🐖 MAXon VPN
-# profile-update-interval: 5
-# Date/Time: 2026-04-06 / 20:29 (Moscow)
-# Profile-ServerDescription: 777
-
-vless://eaae2ac7-d521-4a6d-874f-f457f3feacb5@94.228.125.209:443?security=reality&encryption=none&pbk=rDPZZOBMmBb_mNKPEewzp9Uu6zkGrP7XOVpnRzetXDc&headerType=none&fp=randomized&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&type=tcp#Обход глушилок #1🇷🇺
-vless://848988a6-2b4a-4ebd-b081-500f441edc60@194.164.35.205:8443?security=reality&encryption=none&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&type=tcp#Обход глушилок #2🇳🇱
-vless://c41a8b2a-f8bc-4d4e-a924-5a4c2599a56b@51.250.117.39:443?security=reality&encryption=none&pbk=EzS6YGgfE-F0jR0-xXB5rVBh-1oNSC17oquln8hK4Wo&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&type=tcp#Обход глушилок #3🇫🇷
