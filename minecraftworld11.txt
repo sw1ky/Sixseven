@@ -2,7 +2,7 @@
 # profile-update-interval: 67
 # Date/Time: 2026-04-06 / 20:29 (Moscow)
 
-vless://4281020f-6858-4beb-8633-9616244c023d@2.26.69.251:443?encryption=none&security=reality&flow=xtls-rprx-vision&sni=www.googletagmanager.com&fp=chrome&pbk=oXTeQnjMyq-YkqX4XpEd6DhhtMRjrrYlgOd6HtK1mUE&sid=2c43b40d97ecd9e9#%F0%9F%87%AB%F0%9F%87%AE+Финляндия+#1+[FAST]
+vless://8d276bfa-2e4a-4c95-8ee0-1c74d379c693@2.26.69.251:443?security=reality&encryption=none&pbk=5kcXWLqI3lGzJ7TRy-ag5dEgVlwZrCdFr6FnLuO3rRs&headerType=none&fp=chrome&spx=%2FX7PHeboEK2vq32n&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=3bdd#Финляндия+#1+[FAST]🇫🇮
 vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@freetg.strettenvpn.com:443?security=reality&encryption=none&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&headerType=none&fp=chrome&spx=%2Fo7Aaf6fjwgbitolAe&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=8248954896#🏳️ Белые списки #1 | t2
 vless://d8278257-40ca-4a16-842d-6c21330729dd@84.201.186.24:443?security=reality&encryption=none&pbk=Vkr2hyJysBf8rQQLCP59oiVhLHUX0kT7BLYHALbRBkk&headerType=none&fp=randomized&spx=%2Fapi%2Fentrypoint%2F97382&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🏳️ Белые списки #2 | t2
 vless://5ada698a-68ca-4e2d-88cf-b5e0b67df85f@31.129.42.122:443?mode=gun&security=reality&encryption=none&authority=&pbk=dZwaeGvFS34wVBQOQ5q1c9xs8t1HHu2h9CdxnTGeuAw&fp=chrome&spx=%2F&allowinsecure=0&type=grpc&serviceName=&sni=api-maps.yandex.ru&sid=11a33a97aa#🏳️ Белые списки #3 | t2
